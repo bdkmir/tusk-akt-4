@@ -1,0 +1,23 @@
+.block {
+    width: 800px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.item {
+    width: 200px;
+    height: 200px;
+    background-color: red;
+}
+
+@media (max-width: 500px) {
+    .block {
+        width: 400px;
+        flex-direction: column;
+       align-items: center;
+    }
+
+    .item {
+        margin-bottom: 10px;
+    }
+}
