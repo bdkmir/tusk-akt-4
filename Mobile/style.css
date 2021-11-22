@@ -1,7 +1,9 @@
 .block {
-    width: 800px;
+    width: 2000px;
     display: flex;
-    justify-content: space-between;
+    flex-direction: column;
+    justify-content: flex-end;
+    border: 3px dashed teal;
 }
 
 .item {
