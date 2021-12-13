@@ -1,0 +1,81 @@
+.jjba {
+    width: 800px;
+    height: 2000px;
+    justify-content: center;
+    margin-left: 500px;
+}
+.jojo_home {
+    display: inline;
+
+}
+.jojo_About_me {
+    display: inline;
+
+}
+.jojo_Skills {
+    display: inline;
+
+}
+.jojo_Portfolio {
+    display: inline;
+
+}
+.jojo_Contacts {
+    display: inline;
+
+}
+a {
+    text-decoration: none;
+}
+.ojoj{ 
+    color: black;
+}
+.jo{
+color: grey;
+}
+.oj{
+    color: grey;
+}
+.jjoo{
+    color: grey;
+}
+.ojjo{
+    color: grey;
+
+}
+.gogo {
+    border-bottom: 1px grey solid;
+    text-align: center;
+    display: flex;
+    list-style: none;
+    justify-content: space-between;
+}
+.go {
+    display: flex;
+    
+}
+h1 {
+    width: 30px;
+    font-size: 48px;
+}
+h2 {
+    transform: rotate(-90deg);
+    text-align: center;
+    left: 800px;
+    position: relative;
+
+}
+h3 {
+    width: 200px;
+    font-size: 22px;
+    text-align: center;
+    position: relative;
+}
+img {
+    align-items: center;
+}
+.og {
+    width: 600px;
+    height: 500px;
+    text-align: center;
+}
