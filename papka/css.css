@@ -1,0 +1,38 @@
+body{
+    margin: 0;
+}
+.jjba{
+width: 100%;
+height: 100px;
+display: flex;
+justify-content: space-around;
+}
+.abjj{
+    width: 131px;
+    height: 72px;
+    background-image: url(./logo\ \(1\)\ 1.png);
+}
+.jabj{
+    background-color: lime;
+    text-decoration: none;
+}
+.ajjb{
+    text-decoration: none;
+}
+.ojoj{
+
+    /* background-image: url(./Vector.png); */
+    width: 173px;
+    height: 103px;
+}
+a{
+    text-decoration: none;
+}
+
+.jbaj{
+    display: flex;
+    flex-direction: column;
+}
+li{
+    list-style-type: none;
+}
