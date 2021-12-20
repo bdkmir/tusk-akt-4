@@ -11,6 +11,8 @@ justify-content: space-around;
     width: 131px;
     height: 72px;
     background-image: url(./logo\ \(1\)\ 1.png);
+    border-left: 1px #cdcdcd solid;
+    border-right: 1px #cdcdcd solid ;
 }
 .jabj{
     background-color: lime;
@@ -35,4 +37,53 @@ a{
 }
 li{
     list-style-type: none;
+}
+.ojjo{
+    width: 185px;
+    height: 103px;
+}
+.gogo{
+    width: 39px;
+    height: 39px;
+}
+.ogog{
+    display: flex;
+}
+.Maistra-ONLINE{
+    width: 240px;
+    height: 55px;
+    margin-left: 35px;
+    background: #EFF3F6;
+    border-radius: 2px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.read{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 55px;
+    height: 55px;
+    background: #DD4053;
+    border-radius: 2px;  
+}
+.TOURS-ONLINE{
+    width: 205px;
+    height: 55px;
+    margin-left: 30px;
+    background: #EFF3F6;
+    border-radius: 2px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.green{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 55px;
+    height: 55px;
+    background: #4AD295;
+    border-radius: 2px;
 }
